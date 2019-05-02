@@ -180,7 +180,7 @@ public class Practice11Test {
 			grade += 35;
 			System.out.println("[+35%] Passed timing test in " + time + "ms.");
 		} else {
-			System.out.println("[    ] Failed timing test -- took " + time + "ms. (Should be less than 170ms.)");
+			System.out.println("[    ] Failed timing test -- took " + time + "ms. (Should be less than 200ms.)");
 		}
 		
 		System.out.println("Grade for this assignment: " + grade + "%");
